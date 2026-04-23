@@ -1,0 +1,22 @@
+# Virtual environments
+matrix_env/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Package build files
+dist/
+*.egg-info/
+
+# Matplotlib output
+*.png
+
+poetry.lock
